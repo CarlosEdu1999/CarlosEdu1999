@@ -8,7 +8,7 @@
 
 I'm a BackEnd Developer :smile:
 
-Im currently at 6th period of Computer Science in UNITRI 👨‍🎓, Trying to become a good developer 👨‍💻.
+Im currently at 6th period of Computer Science in UNITRI 👨‍🎓, Trying to become a Great developer 👨‍💻.
 
 I Love to Code , Learn New Tecnologies, And Solutioning Problems.
 
