@@ -6,9 +6,12 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+I'm a BackEnd Developer :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+Im currently at 6th period of Computer Science in UNITRI 👨‍🎓, Trying to become a good developer 👨‍💻.
+
+I Love to Code , Learn New Tecnologies, And Solutioning Problems.
+
 
 ## My specialties:
 
