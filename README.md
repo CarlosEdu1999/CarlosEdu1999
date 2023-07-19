@@ -8,7 +8,7 @@
 
 I'm a BackEnd Developer :smile:
 
-Im Currently at 7th Period of Computer Science in UNITRI 👨‍🎓, Trying to Become a Great developer 👨‍💻.
+Im Currently at 7th Period of Computer Science in UNITRI 👨‍🎓, working as a developer at Sensedia 👨‍💻.
 
 I Love to Code , Learn New Tecnologies, And Solutioning Problems.
 
