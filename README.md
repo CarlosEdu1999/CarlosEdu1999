@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm a BackEnd Developer :smile:
+I'm a BackEnd Developer with 3 years of experience :smile:
 
 Im Currently at 7th Period of Computer Science in UNITRI 👨‍🎓, working as a developer at Sensedia 👨‍💻.
 
